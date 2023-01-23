@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ivana Fahn</title>
+</head>
+<body>
+
+    <header>
+    <h1>Mi primera página web</h1>
+    <h1>Ivana Fahn</h1>
+    </header>
+
+    <h2>Mi nombre</h2>
+        <p>Ivana Estefania Fahn</p>
+        
+    <h2>Sobre mí</h2> 
+        <p>Hola! Soy Ivana, una estudiante de Comercio Internacional, interesada
+            por todo lo relacionado al Marketing Digital como por Diseño y Desarrollo Web.
+            Tengo 22 años y vivo en Marcos Paz, Pcia. de Buenos Aires.</p>
+
+    <h2>Nombre de mi docente</h2>
+        <p>Juanma Brignole</p>
